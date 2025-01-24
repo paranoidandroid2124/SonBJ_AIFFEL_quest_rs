@@ -23,11 +23,12 @@
 - [✓ ]  **4. 회고를 잘 작성했나요?**
 ![image](https://github.com/user-attachments/assets/6a5b1842-7db3-49da-82d7-fa6182fa3f14)
 
+회고를 상세히 잘 작성했습니다.
         
 - [✓ ]  **5. 코드가 간결하고 효율적인가요?**
  ![image](https://github.com/user-attachments/assets/30b0d350-efa6-4dc7-97e0-acdeda56f6f4)
 
-
+코드는 주석이 잘 달려있고 간결하고 효율적입니다.
 
 # 회고(참고 링크 및 코드 개선)
 - 테스트 1. 온진하지 않는 얼굴(일부만 나온 경우)
